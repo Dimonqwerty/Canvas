@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #242227;
+}
+
+.canvas {
+  background-color: #d6d6d6;
+  border: none;
+  border-radius: 10px;
+  margin: 30px;
+}
